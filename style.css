@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ja">
-
 <head>
   <meta charset='utf-8'>
   <meta name="viewport" content="width=device-width">
@@ -13,7 +12,6 @@
     p{color:red;}
     </style>
 </head>
-
 <body>
   <p class="foo">この段落の文字色は赤．</p>
 
@@ -21,5 +19,4 @@
 
   <p id="bar">この段落の文字色は青．</p>
 </body>
-
 </html>
